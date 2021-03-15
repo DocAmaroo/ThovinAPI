@@ -1,0 +1,31 @@
+{
+  "name": "@thovin/api",
+  "version": "1.0.0",
+  "description": "API de notre application Android sur la livraison en ligne",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "dev": "nodemon index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DocAmaroo/ThovinAPI"
+  },
+  "author": "Canta Thomas",
+  "contributors": [
+    "Kevin GRACIA-MOULIS"
+  ],
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1",
+    "helmet": "^4.4.1",
+    "mongoose": "^5.11.14"
+  },
+  "bugs": {
+    "url": "https://github.com/DocAmaroo/ThovinAPI/issues"
+  },
+  "homepage": "https://github.com/DocAmaroo/ThovinAPI#readme"
+}
