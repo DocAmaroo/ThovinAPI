@@ -8,16 +8,9 @@ exports.getAllUser = function (req, res) {
 		}
 
 		if (!users) {
-			return res.status(404).json({
-				ok: false,
-				code: 'US40401',
-				message: 'No user found'
-			})
+			return res.status(404).send();
 		}
 
-		return res.status(200).json({
-			ok: true,
-			users
-		})
+		return res.status(200).json(users);
 	})
 }
