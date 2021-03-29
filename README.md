@@ -5,8 +5,6 @@ Simple API de test pour le projet Android du module HMIN205.
 * [Installation](#installation)
 * [Variables d'environnement](#variables-denvironnement)
 * [Lancer](#lancer)
-* [Documentation](#documentation)
-  * [Routes](#routes)
 
 
 ## Pré-requis
