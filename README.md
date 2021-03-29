@@ -1,5 +1,5 @@
-# ConnaissancesAPI
-API de connaissance pour le projet TER 2021 du groupe TERinou.
+# ThovinAPI
+Simple API de test pour le projet Android du module HMIN205.
 
 * [Pré-requis](#pré-requis)
 * [Installation](#installation)
